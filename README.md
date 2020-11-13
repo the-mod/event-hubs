@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/azure-open-tools/event-hubs.svg?branch=master)](https://travis-ci.org/azure-open-tools/event-hubs)
+![Event-Hubs-Cli](https://github.com/azure-open-tools/event-hubs-cli/workflows/Event-Hubs-Cli/badge.svg)
 
 # Introduction
 `Azure Event Hubs is a highly scalable publish-subscribe service that can ingest millions of 
